@@ -4,7 +4,6 @@ Data-Driven insights on Olympic Sports Participation and Performance<br>
 Smart bridge Data Analytics Final Project<br>
 
 by Team-88<br>
-
 Done By:<br>
 Sparsh Wabhale - 20BCE1651<br>
 Poulami Bera - 20BCE1305 <br>
